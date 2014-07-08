@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "LetsModReboot",
+    "name": "Lets Mod Reboot",
+    "description": "None",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Chyromyr" ],
+    "credits": "Pahimar's Let's Mod YouTube series.",
+    "logoFile": "",
+    "screenshots": [  ],
+    "parent": "",
+    "requiredMods": [  ],
+    "dependencies": [  ],
+    "dependants": [  ],
+    "useDependencyInformation": true
+  }]
+}
